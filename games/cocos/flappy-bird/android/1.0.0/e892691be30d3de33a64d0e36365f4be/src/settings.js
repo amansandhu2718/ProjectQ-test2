@@ -1,0 +1,1 @@
+window._CCSettings={platform:"android",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/FlappyBird.fire",orientation:"",server:"",jsList:[]};
